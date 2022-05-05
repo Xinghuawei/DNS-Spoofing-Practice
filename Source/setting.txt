@@ -1,0 +1,7 @@
+f0:b4:d2:2b:ed:a7
+10:56:11:8f:e7:c9
+a8:5e:45:cf:38:fe
+10.0.0.33
+10.0.0.1
+10.0.0.8
+attackMac, routerMac, victimMac, attackIP, routerIP,victimIP
